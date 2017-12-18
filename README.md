@@ -6,3 +6,5 @@ Experimenting with using Jupyter Notebooks + GitHub for course note taking relat
 Course can be found here: https://interactivepython.org/runestone/static/pythonds/index.html
 
 and the relavant Python package here: https://pypi.python.org/pypi/pythonds/1.2.1
+
+The original course is freely distributed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
