@@ -7,4 +7,4 @@ Course can be found here: https://interactivepython.org/runestone/static/pythond
 
 and the relavant Python package here: https://pypi.python.org/pypi/pythonds/1.2.1
 
-The original course is freely distributed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
+The original course is freely distributed under the <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a> license.
